@@ -1,6 +1,6 @@
 # Tupla: Definida por chaves (). Exemplo: tupla = {1, 2, 3}.
 
-# conjuntos não têm uma ordem específica, como uma lista.
+# conjuntos 
 
 
 conjunto = {"Tomie", "Ayako"}
